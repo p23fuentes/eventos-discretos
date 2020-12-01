@@ -1,0 +1,76 @@
+
+ Comienza Simulacion
+
+20,1583991409565  :  El Tanquero 1 arribo al Puerto
+20,1583991409565  :  Remolcador sale hacia el Muelle con Tanquero 1
+20,2776343606262  :  El Tanquero 2 arribo al Puerto
+21,6866952504091  :  El Tanquero 3 arribo al Puerto
+28,15862050382  :  El Tanquero 4 arribo al Puerto
+29,374049765108  :  El Tanquero 5 arribo al Puerto
+30,3002844625199  :  El Tanquero 6 arribo al Puerto
+44,9613161147875  :  El Tanquero 7 arribo al Puerto
+50,1050580005549  :  El Tanquero 8 arribo al Puerto
+55,2671759943899  :  El Tanquero 9 arribo al Puerto
+55,9667570524144  :  El Tanquero 10 arribo al Puerto
+58,0567879675416  :  El Tanquero 11 arribo al Puerto
+75,3885836461487  :  El Tanquero 12 arribo al Puerto
+76,8382180215315  :  El Tanquero 13 arribo al Puerto
+79,552205078618  :  El Tanquero 14 arribo al Puerto
+106,07087412462  :  Remolcador llega al Muelle con Tanquero 1
+106,07087412462  :  Remolcador viaja hacia el Puerto sin Tanquero
+106,205372598555  :  Remolcador llega al Puerto sin Tanquero
+106,205372598555  :  Remolcador sale hacia el Muelle con Tanquero 2
+107,137253299444  :  Remolcador llega al Muelle con Tanquero 2
+107,137253299444  :  Remolcador viaja hacia el Puerto sin Tanquero
+107,157453388809  :  Remolcador llega al Puerto sin Tanquero
+107,157453388809  :  Remolcador sale hacia el Muelle con Tanquero 3
+128,951640094624  :  Remolcador llega al Muelle con Tanquero 3
+629,635646543623  :  El Tanquero 3 termina su carga
+629,635646543623  :  Remolcador sale hacia el Puerto con Tanquero 3
+708,777126314509  :  El Tanquero 1 termina su carga
+720,015721242998  :  Remolcador llega al Puerto con Tanquero 3
+720,015721242998  :  Remolcador sale hacia el Muelle con Tanquero 4
+728,413398475925  :  El Tanquero 2 termina su carga
+733,221219160599  :  Remolcador llega al Muelle con Tanquero 4
+733,221219160599  :  Remolcador sale hacia el Puerto con Tanquero 1
+737,642139326515  :  Remolcador llega al Puerto con Tanquero 1
+737,642139326515  :  Remolcador sale hacia el Muelle con Tanquero 5
+819,985824071263  :  Remolcador llega al Muelle con Tanquero 5
+819,985824071263  :  Remolcador sale hacia el Puerto con Tanquero 2
+982,212962682779  :  Remolcador llega al Puerto con Tanquero 2
+982,212962682779  :  Remolcador sale hacia el Muelle con Tanquero 6
+1019,02778108358  :  Remolcador llega al Muelle con Tanquero 6
+1250,87557715485  :  El Tanquero 4 termina su carga
+1250,87557715485  :  Remolcador sale hacia el Puerto con Tanquero 4
+1265,42789085971  :  Remolcador llega al Puerto con Tanquero 4
+1265,42789085971  :  Remolcador sale hacia el Muelle con Tanquero 7
+1277,65517452425  :  Remolcador llega al Muelle con Tanquero 7
+1310,781505013  :  El Tanquero 5 termina su carga
+1310,781505013  :  Remolcador sale hacia el Puerto con Tanquero 5
+1367,84132614577  :  Remolcador llega al Puerto con Tanquero 5
+1367,84132614577  :  Remolcador sale hacia el Muelle con Tanquero 8
+1380,52904999982  :  Remolcador llega al Muelle con Tanquero 8
+
+ Termina Simulacion
+
+Tiempo de Simulacion: 1440 minutos
+***********************************
+Espera del Tanquero 3 en el Puerto: 85,4707581383995 minutos
+Espera del Tanquero 3 en el Muelle: 0 minutos
+Espera del Tanquero 3 Total: 85,47075813839950 minutos
+Espera del Tanquero 1 en el Puerto: 0 minutos
+Espera del Tanquero 1 en el Muelle: 24,4440928460898 minutos
+Espera del Tanquero 1 Total: 024,4440928460898 minutos
+Espera del Tanquero 2 en el Puerto: 85,9277382379291 minutos
+Espera del Tanquero 2 en el Muelle: 91,572425595338 minutos
+Espera del Tanquero 2 Total: 85,927738237929191,572425595338 minutos
+Espera del Tanquero 4 en el Puerto: 691,857100739178 minutos
+Espera del Tanquero 4 en el Muelle: 0 minutos
+Espera del Tanquero 4 Total: 691,8571007391780 minutos
+Espera del Tanquero 5 en el Puerto: 708,268089561407 minutos
+Espera del Tanquero 5 en el Muelle: 0 minutos
+Espera del Tanquero 5 Total: 708,2680895614070 minutos
+--------------------------------------------
+Total de Tanqueros atendidos: 5
+Promedio de Espera de los Tanqueros
+337,508041023668 minutos

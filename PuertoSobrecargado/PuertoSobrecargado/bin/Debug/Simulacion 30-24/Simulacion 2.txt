@@ -1,0 +1,59 @@
+
+ Comienza Simulacion
+
+15,4829175508093  :  El Tanquero 1 arribo al Puerto
+15,4829175508093  :  Remolcador sale hacia el Muelle con Tanquero 1
+24,0310056975755  :  El Tanquero 2 arribo al Puerto
+27,7605794183345  :  El Tanquero 3 arribo al Puerto
+28,007254137486  :  El Tanquero 4 arribo al Puerto
+29,9977109126196  :  El Tanquero 5 arribo al Puerto
+30,2323521133745  :  El Tanquero 6 arribo al Puerto
+35,3052596784996  :  El Tanquero 7 arribo al Puerto
+42,4523282948881  :  El Tanquero 8 arribo al Puerto
+45,6106314285873  :  El Tanquero 9 arribo al Puerto
+51,4428317329244  :  El Tanquero 10 arribo al Puerto
+56,8564188195863  :  Remolcador llega al Muelle con Tanquero 1
+56,8564188195863  :  Remolcador viaja hacia el Puerto sin Tanquero
+57,0574067663585  :  Remolcador llega al Puerto sin Tanquero
+57,0574067663585  :  Remolcador sale hacia el Muelle con Tanquero 2
+60,985237158203  :  Remolcador llega al Muelle con Tanquero 2
+60,985237158203  :  Remolcador viaja hacia el Puerto sin Tanquero
+61,0249125720441  :  Remolcador llega al Puerto sin Tanquero
+61,0249125720441  :  Remolcador sale hacia el Muelle con Tanquero 3
+66,8820717732419  :  Remolcador llega al Muelle con Tanquero 3
+616,442663791083  :  El Tanquero 3 termina su carga
+616,442663791083  :  Remolcador sale hacia el Puerto con Tanquero 3
+639,089444605  :  El Tanquero 1 termina su carga
+675,25007949591  :  Remolcador llega al Puerto con Tanquero 3
+675,25007949591  :  Remolcador sale hacia el Muelle con Tanquero 4
+726,294199065436  :  El Tanquero 2 termina su carga
+733,178255327452  :  Remolcador llega al Muelle con Tanquero 4
+733,178255327452  :  Remolcador sale hacia el Puerto con Tanquero 1
+814,73788292483  :  Remolcador llega al Puerto con Tanquero 1
+814,73788292483  :  Remolcador sale hacia el Muelle con Tanquero 5
+843,986644715017  :  Remolcador llega al Muelle con Tanquero 5
+843,986644715017  :  Remolcador sale hacia el Puerto con Tanquero 2
+939,359741381261  :  Remolcador llega al Puerto con Tanquero 2
+939,359741381261  :  Remolcador sale hacia el Muelle con Tanquero 6
+955,506222148675  :  Remolcador llega al Muelle con Tanquero 6
+1380,77142934202  :  El Tanquero 4 termina su carga
+1380,77142934202  :  Remolcador sale hacia el Puerto con Tanquero 4
+1431,19888450959  :  El Tanquero 5 termina su carga
+
+ Termina Simulacion
+
+Tiempo de Simulacion: 1440 minutos
+***********************************
+Espera del Tanquero 3 en el Puerto: 33,2643331537095 minutos
+Espera del Tanquero 3 en el Muelle: 0 minutos
+Espera del Tanquero 3 Total: 33,26433315370950 minutos
+Espera del Tanquero 1 en el Puerto: 0 minutos
+Espera del Tanquero 1 en el Muelle: 94,0888107224516 minutos
+Espera del Tanquero 1 Total: 094,0888107224516 minutos
+Espera del Tanquero 2 en el Puerto: 33,0264010687831 minutos
+Espera del Tanquero 2 en el Muelle: 117,692445649582 minutos
+Espera del Tanquero 2 Total: 33,0264010687831117,692445649582 minutos
+--------------------------------------------
+Total de Tanqueros atendidos: 3
+Promedio de Espera de los Tanqueros
+92,6906635315086 minutos

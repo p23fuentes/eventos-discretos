@@ -1,0 +1,6 @@
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\bin\Debug\PuertoSobrecargado.exe.config
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\bin\Debug\PuertoSobrecargado.exe
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\bin\Debug\PuertoSobrecargado.pdb
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\obj\Debug\PuertoSobrecargado.exe
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\obj\Debug\PuertoSobrecargado.pdb
+C:\Users\PabloAdrianFuentes\Documents\Visual Studio 2013\Projects\PuertoSobrecargado\PuertoSobrecargado\obj\Debug\PuertoSobrecargado.csprojResolveAssemblyReference.cache

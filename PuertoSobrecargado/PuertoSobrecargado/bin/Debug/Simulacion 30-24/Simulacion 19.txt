@@ -1,0 +1,48 @@
+
+ Comienza Simulacion
+
+3,9935021550783  :  El Tanquero 1 arribo al Puerto
+3,9935021550783  :  Remolcador sale hacia el Muelle con Tanquero 1
+7,25175041120647  :  Remolcador llega al Muelle con Tanquero 1
+13,0417151834117  :  El Tanquero 2 arribo al Puerto
+13,0417151834117  :  Remolcador viaja hacia el Puerto sin Tanquero
+13,0691134616373  :  Remolcador llega al Puerto sin Tanquero
+13,0691134616373  :  Remolcador sale hacia el Muelle con Tanquero 2
+23,5048508968074  :  El Tanquero 3 arribo al Puerto
+28,5091807487612  :  El Tanquero 4 arribo al Puerto
+34,9659293646683  :  El Tanquero 5 arribo al Puerto
+40,5919558308807  :  El Tanquero 6 arribo al Puerto
+59,7231251432343  :  Remolcador llega al Muelle con Tanquero 2
+59,7231251432343  :  Remolcador viaja hacia el Puerto sin Tanquero
+59,7959830604604  :  Remolcador llega al Puerto sin Tanquero
+59,7959830604604  :  Remolcador sale hacia el Muelle con Tanquero 3
+64,7035028963019  :  El Tanquero 7 arribo al Puerto
+64,7693662937438  :  Remolcador llega al Muelle con Tanquero 3
+68,4094400899393  :  El Tanquero 8 arribo al Puerto
+1064,4970287432  :  El Tanquero 3 termina su carga
+1064,4970287432  :  Remolcador sale hacia el Puerto con Tanquero 3
+1086,17573523132  :  Remolcador llega al Puerto con Tanquero 3
+1086,17573523132  :  Remolcador sale hacia el Muelle con Tanquero 4
+1089,89220184942  :  El Tanquero 1 termina su carga
+1096,71749843156  :  Remolcador llega al Muelle con Tanquero 4
+1096,71749843156  :  Remolcador sale hacia el Puerto con Tanquero 1
+1116,48165088279  :  Remolcador llega al Puerto con Tanquero 1
+1116,48165088279  :  Remolcador sale hacia el Muelle con Tanquero 5
+1143,26458635049  :  Remolcador llega al Muelle con Tanquero 5
+1169,99471544376  :  El Tanquero 2 termina su carga
+1169,99471544376  :  Remolcador sale hacia el Puerto con Tanquero 2
+
+ Termina Simulacion
+
+Tiempo de Simulacion: 1440 minutos
+***********************************
+Espera del Tanquero 3 en el Puerto: 36,291132163653 minutos
+Espera del Tanquero 3 en el Muelle: 0 minutos
+Espera del Tanquero 3 Total: 36,2911321636530 minutos
+Espera del Tanquero 1 en el Puerto: 0 minutos
+Espera del Tanquero 1 en el Muelle: 6,82529658213798 minutos
+Espera del Tanquero 1 Total: 06,82529658213798 minutos
+--------------------------------------------
+Total de Tanqueros atendidos: 2
+Promedio de Espera de los Tanqueros
+21,5582143728955 minutos
